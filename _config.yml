@@ -1,6 +1,6 @@
 title: "Jref News"
 description: "RSS based summarized tech news feed"
-baseurl: ""
+baseurl: "/Jref"
 url: "https://wyjee.github.io/Jref"
 
 theme: minima
