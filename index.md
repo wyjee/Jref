@@ -47,7 +47,7 @@ body {
 {% for post in site.posts %}
 <div class="post-card">
   <div class="post-header">
-    <a href="{{ post.url | relative_url }}">
+    <a href="{{ post.link | '' }}">
       <h2 class="post-title">{{ post.title }}</h2>
     </a>
   </div>
