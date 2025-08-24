@@ -45,7 +45,7 @@ body {
 {% for post in site.posts %}
 <div class="post-card">
   <div class="post-header">
-    <a href="{{ post.original_link }}">
+    <a href="{{ post.original_link }}" target="_blank">
       <h2 class="post-title">{{ post.title }}</h2>
     </a>
   </div>
