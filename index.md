@@ -42,8 +42,6 @@ body {
 }
 </style>
 
-# Jref News
-
 {% for post in site.posts %}
 <div class="post-card">
   <div class="post-header">
