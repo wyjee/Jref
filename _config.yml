@@ -1,0 +1,17 @@
+title: "Jref News"
+description: "RSS based summarized tech news feed"
+baseurl: ""
+url: "https://wyjee.github.io/Jref"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate: 10
+paginate_path: "/page:num/"
+
+collections:
+  posts:
+    output: true
