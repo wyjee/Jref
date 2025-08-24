@@ -1,0 +1,11 @@
+---
+title: "Aviator is a Fast, User-Friendly App for AV1 Video Encoding on Linux"
+link: "https://www.omgubuntu.co.uk/2025/08/aviator-svt-av1-video-encoder-app-for-linux"
+date: 2025-08-23
+---
+
+<p><img width="406" height="232" src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/gnome-app-explosion-1.jpg?resize=406%2C232&amp;ssl=1" class="attachment-post-list size-post-list wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/gnome-app-explosion-1.jpg?resize=350%2C200&amp;ssl=1 350w, https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/gnome-app-explosion-1.jpg?resize=406%2C232&amp;ssl=1 406w, https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/gnome-app-explosion-1.jpg?resize=840%2C480&amp;ssl=1 840w, https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/gnome-app-explosion-1.jpg?zoom=3&amp;resize=406%2C232&amp;ssl=1 1218w" sizes="(max-width: 406px) 100vw, 406px" />Heard of the AV1 (AOMedia Video 1) codec? Chances are you have, as this open source, royalty-free video compression standard is championed by the likes of Google, Netflix, Amazon, and even Apple. All for a very good reason (beyond the anyone-is-free-to-use-it-no-catches aspect). AV1 produces fantastic quality video at often significantly. smaller file sizes. For major video streaming services you can see the appeal: bandwidth means money, and a video codec that delivers decent quality but is data efficient is a no-brainer, costs-wise. But you might be interested in using it too. If you upload content to video sharing sites, AV1 [&#8230;]</p>
+<p>You're reading <a href="https://www.omgubuntu.co.uk/2025/08/aviator-svt-av1-video-encoder-app-for-linux">Aviator is a Fast, User-Friendly App for AV1 Video Encoding on Linux</a>, a blog post from <a href="https://www.omgubuntu.co.uk">OMG! Ubuntu</a>. Do not reproduce elsewhere without permission.</p>
+
+
+Original link: https://www.omgubuntu.co.uk/2025/08/aviator-svt-av1-video-encoder-app-for-linux
