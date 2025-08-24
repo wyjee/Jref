@@ -45,9 +45,15 @@ body {
 {% for post in site.posts %}
 <div class="post-card">
   <div class="post-header">
-    <a href="{{ post.original_link || '' }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-    </a>
+
+<div class="debug" style="color:red; background-color:yellow;">
+    <p>Post Link: {{ post.link }}</p>
+    <p>Original Link: {{ post.original_link }}</p>
+</div>
+
+<a href="{{ post.original_link || '' }}">
+  <h2 class="post-title">{{ post.title }}</h2>
+</a>
   </div>
   <div class="post-content">
     <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
